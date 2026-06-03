@@ -1,5 +1,4 @@
-Part 1
-Title: The Open Source Cosmos
+Part 1 - The Open Source Cosmos
 Inspiration: Psalm 8:3-8
 
 When I consider your codebase,
@@ -20,8 +19,7 @@ The data in the cloud,
     and the packets in the wire,
     all that traverse the paths of the internet.
 
-Part 2
-Title: The Great Commit
+Part 2 - The Great Commit
 Inspiration: Psalm 148:1-6
 
 Praise the Network! Praise the Network from the servers;
