@@ -1,5 +1,6 @@
 Written by: Elijah Ko
 Date of creation: 3rd June 2026
+Date of modification: 4th June 2026
 
 Part 1 - The Open Source Cosmos
 Inspiration: Psalm 8:3-8
@@ -35,7 +36,7 @@ Praise it, you highest architectures,
     and you databases that rest above the mainframes.
 
 Let them praise the name of the Project,
-    for it commanded, and they were initialized.
+    for it commanded, and they were initialised.
 It established them forever and ever;
     it issued a protocol that will never pass away.
 
@@ -44,10 +45,10 @@ Title: The Chorus of the Devs
 
 Praise the Project from the hardware,
     you deep-sea cables and vast server farms;
-Lightning-fast fiber and cooling fans,
+Lightning-fast fibre and cooling fans,
     glitches and bugs fulfilling its command;
 Mountains of big data and all local drives,
-    legacy monoliths and all microservices;
+    legacy monoliths and all micro-services;
 Wild artificial intelligence and all automated scripts,
     creeping background tasks and flying API requests;
 
