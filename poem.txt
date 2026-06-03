@@ -22,6 +22,7 @@ The data in the cloud,
 
 Part 2
 Title: The Great Commit
+Inspiration: Psalm 148:1-6
 
 Praise the Network! Praise the Network from the servers;
     praise it in the highest clouds.
