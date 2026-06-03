@@ -1,3 +1,4 @@
+Part 1
 Title: The Open Source Cosmos
 Inspiration: Psalm 8:3-8
 
@@ -18,3 +19,20 @@ All libraries and frameworks,
 The data in the cloud,
     and the packets in the wire,
     all that traverse the paths of the internet.
+
+Part 2
+Title: The Great Commit
+
+Praise the Network! Praise the Network from the servers;
+    praise it in the highest clouds.
+Praise it, all you maintainers;
+    praise it, all you contributors and bots.
+Praise it, frontend and backend;
+    praise it, all you shining lines of code.
+Praise it, you highest architectures,
+    and you databases that rest above the mainframes.
+
+Let them praise the name of the Project,
+    for it commanded, and they were initialized.
+It established them forever and ever;
+    it issued a protocol that will never pass away.
