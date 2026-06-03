@@ -37,3 +37,20 @@ Let them praise the name of the Project,
     for it commanded, and they were initialized.
 It established them forever and ever;
     it issued a protocol that will never pass away.
+
+Part 3
+Title: The Chorus of the Devs
+
+Praise the Project from the hardware,
+    you deep-sea cables and vast server farms;
+Lightning-fast fiber and cooling fans,
+    glitches and bugs fulfilling its command;
+Mountains of big data and all local drives,
+    legacy monoliths and all microservices;
+Wild artificial intelligence and all automated scripts,
+    creeping background tasks and flying API requests;
+
+Tech giants of the earth and all system admins,
+    product managers and all tech leads;
+Young bootcamp grads and seasoned architects alike,
+    old-guard hackers alongside the new generation.
